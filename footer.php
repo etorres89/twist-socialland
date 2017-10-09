@@ -1,0 +1,157 @@
+<footer class="one st">
+				<div class="ft cntR full">
+					<a href="#content-preguntasfrecuentes" class="fancybox"><img src="img/ic-info-outline.svg"   tabindex="0"></a>					
+					<h6 class="spaL animLink" tabindex="0"><a href="#content-terminos" class="fancybox">Información legal</a></h6>
+					<h6 class="spaL animLink"><a class="gray" href="https://servicios.santander.com.mx/tarjetas/tarjetas/index.html" target="_blank" >Tarjetas de crédito</a></h6>
+					<h6 class="animLink"><a class="gray" href="contacto.html">Contáctanos</a></h6>
+				</div>
+		</footer>
+			
+		<footer class="row footer_santander">
+				<div class="col-md-4 col-xs-12 ContenedorMenuTwistFooter" id="ContenedorMenuTwistFooter">
+					<div class="mb ">
+						<img src="img/logo-twist.svg">
+						<h5><a   href="#content-preguntasfrecuentes" class="fancybox">Preguntas frecuentes</a></h5>
+						<h5><a  href="#content-terminos" class="fancybox">Información legal</a></h5>
+						 
+						<h5><a class="white" href="https://servicios.santander.com.mx//tarjetas/tarjetas/index.html" target="_blank" >Tarjetas de crédito</a></h5>
+						<h5><a class="white" href="contacto.html" >Contáctanos</a></h5>
+					</div>
+				</div>
+			<div class="col-md-8 col-xs-12 align-middle">
+				<p>Para mayores informes de comisiones, contrataciones y beneficios del producto consultar <a href="http://www.santander.com.mx/" target="_blank" class="white" id="Footer:  www.santander.com.mx" analytics-on="click">www.santander.com.mx</a></p>
+			</div>
+			<div class="col-md-4 col-xs-12"> 
+				<div class="rrss cntrV">
+					<div class="inlMid">
+						<a href="https://www.facebook.com/SantanderMex" target="_blank"><img src="img/facebook.svg" class="ic_ssrr" onclick="dataLayer.push({'event':'tk-event','evt-cat': 'Link footer','evt-act': 'click','evt-lab': 'Share FB','evt-val': 1});" id="Footer: Share FB" analytics-on="click"></a>
+						</div><div class="inlMid">
+						<a href="https://twitter.com/SantanderMx" target="_blank"><img src="img/twitter.svg" class="ic_ssrr" onclick="dataLayer.push({'event':'tk-event','evt-cat': 'Link footer','evt-act': 'click','evt-lab': 'Share TW','evt-val': 1});" id="Footer: Share TW" analytics-on="click"></a>
+						</div><div class="inlMid">
+						<a href="https://www.youtube.com/user/SantanderMex?&amp;ab_channel=SantanderMex" target="_blank"><img src="img/youtube.svg" class="ic_ssrr" onclick="dataLayer.push({'event':'tk-event','evt-cat': 'Link footer','evt-act': 'click','evt-lab': 'Share YT','evt-val': 1});" id="Footer: Share YT" analytics-on="click"></a>
+					</div>
+				</div> 
+			</div> 
+		</footer>
+	
+ 
+
+
+<div style="display: none">
+    <div id="content-preguntasfrecuentes" style="width:80%">			
+			<p class="contLgh">
+					<b>Preguntas frecuentes:</b>
+					
+				1. ¿Qué es Santander Twist?
+				Santander Twist es el programa de beneficios y promociones para clientes Santander, donde puedes encontrar promociones, preventas, meses sin intereses en muchos establecimientos y experiencias exclusivas.
+
+				2. ¿Mi suscripción a Santander Twist es automática?
+				No, cada usuario debe de realizar su propio registro para así disfrutar de los beneficios que Santander Twist tiene para ti.
+
+				3. ¿Qué necesito para inscribirme a Santander Twist?
+				Un correo electrónico, un nombre de usuario, un número de cliente y/o número de tarjeta Santander.
+
+				4. ¿Cómo puedo hacer valida una promoción de meses sin intereses o descuento?
+				Al pagar con tus tarjetas Santander participantes en cada promoción en automático se hace efectiva la promoción, para ellos debes de checar los términos y condiciones en cada promoción.
+
+				5. Si no tengo Santander Plus ¿Donde me puedo inscribir?
+				Lo puedes hacer en cualquier sucursal Santander en el territorio nacional así como en supernet www.santander.com.mx 
+
+				6. Si olvide mi contraseña ¿Cómo la puedo recuperar?
+				Ahora ¡es muy fácil!, desde el sitio web accede a nuestro chat en línea donde te estaremos atendiendo para guiarte en la recuperación de tu contraseña. También lo puedes hacer de manera automática desde el menú de "Iniciar sesión" que se encuentra en la parte superior derecha de la pagina y dar clic en "¿Olvido su contraseña?".
+
+				7. Si tengo duda de cómo se contabiliza mi facturación para las campañas ¿Con quién puedo dirigirme?
+				Estamos para atender todas tus dudas en el chat en línea o mándanos un correo a campanastwist@santander.com.mx 
+
+				8. ¿Cuáles son los horarios de atención en el chat en línea?
+				Los horarios de atención del chat en línea son de lunes a viernes de 9:00 am a 7:00 pm excepto días festivos, pero puedes dejarnos el mensaje en el chat y al siguiente día hábil, nos pondremos en contacto contigo.
+
+				9. Si tengo un negocio y quiero formar parte de la red de descuentos y/o promociones de Santander Twist ¿Cómo le puedo hacer?
+				En la página principal de Santander Twist (www.santandertwist.com.mx) en la parte inferior a la derecha podrás encontrar un botón que se llama "Comercios" ahí tendrás que llenar un formulario de contacto para poder tomar en cuenta tu comercio y un ejecutivo se pondrá en contacto contigo para darte mayor información del programa y poder cerrar el mejor beneficio para ti.
+
+			</p> 
+	</div>
+</div>
+
+<div style="display: none">
+    <div id="content-terminos" style="width:80%">			
+			  
+
+
+	 
+
+
+	<p>
+		<b>Términos y condiciones Santander Twist</b>
+
+		<p>CONDICIONES GENERALES DE USO E INFORMACION AL USUARIO&nbsp; Banco Santander (México), Institución de Banca Múltiple, Grupo Financiero Santander, en adelante "Santander" pone a disposición de los usuarios del portal de Santander Twist de forma gratuita (en adelante, individualmente, el PORTAL), rigiéndose el acceso a este y la utilización de sus servicios y/o contenidos por lo dispuesto en las presentes Condiciones Generales (en adelante, las "CONDICIONES GENERALES").</p>
+
+		<p>1.- Objeto y Modificación de condiciones. Definición del Portal Santander Twist y Entidades responsables del mismo.</p>
+
+		<p>Santander pone a disposición de los usuarios (en adelante, individualmente, el "USUARIO", y conjuntamente, los "USUARIOS") la posibilidad de navegar, accediendo a los contenidos y servicios del PORTAL siempre que lo hagan de acuerdo con lo previsto en las presentes CONDICIONES GENERALES.</p>
+
+		<p>En cualquier caso, Santander se reserva el derecho de, en cualquier momento y sin necesidad de previo aviso, modificar o eliminar el contenido, estructura, diseño, servicios y condiciones de acceso y/o uso de este sitio, siempre que lo estime oportuno, así como el derecho de interpretar las presentes condiciones, en cuantas cuestiones pudiera plantear su aplicación.</p>
+
+		<p>2.- Requisitos para el acceso, uso y utilización de los servicios y contenidos del Portal.</p>
+
+		<p>Para la utilización de algunos de los servicios de los PORTALES, es requisito necesario estar registrado como USUARIO.&nbsp; Por otra parte, algunos de los contenidos y servicios del PORTAL no serán accesibles sin el previo pago del valor o importe que, en su caso, corresponda de acuerdo con las Condiciones particulares de los mismos.&nbsp; El acceso a y/o uso del PORTAL es totalmente voluntario y atribuye a quien lo realiza la condición de USUARIO. Todo USUARIO, esté o no registrado, acepta, desde el mismo momento en el que accede, sin ningún tipo de reserva, el contenido de las presentes CONDICIONES GENERALES así como, en su caso, las "Condiciones Particulares" que puedan complementarlas, sustituirlas o modificarlas en algún sentido en relación con los servicios y contenidos del PORTAL. En consecuencia, el USUARIO deberá leer detenidamente unas y otras antes del acceso y de la utilización de cualquier servicio del PORTAL bajo su entera responsabilidad.&nbsp; En cualquier caso, SANTANDER se reserva el derecho de, en cualquier momento y sin necesidad de previo aviso, denegar el acceso a su PORTAL o desactivar o dar de baja a aquellos USUARIOS registrados que incumplan cualesquiera de estas CONDICIONES GENERALES o de las particulares que les sean de aplicación, de conformidad con lo dispuesto en el apartado 11 "Pérdida de la condición de usuario" de estas CONDICIONES GENERALES.</p> 
+
+		<p>3.- Principios Generales - Responsabilidad del Usuario "Envío de información comercial".</p> 
+
+		<p>El USUARIO se obliga a utilizar los servicios y contenidos que le proporciona el PORTAL conforme a la legislación vigente aplicable a cada uno de ellos, según lo expuesto en la cláusula 10 de estas CONDICIONES GENERALES, a los principios de buena fe y a los usos generalmente aceptados y a no contravenir con su actuación a través del PORTAL el orden público ni lo dispuesto en las presentes CONDICIONES GENERALES. Por tanto, queda prohibido todo uso con fines ilícitos o que perjudiquen o impidan, puedan dañar y/o sobrecargar, de cualquier forma, la utilización y normal funcionamiento del PORTAL, o bien, que directa o indirectamente atenten el mismo o contra cualquier tercero.&nbsp; El USUARIO no transmitirá a través de los servicios, herramientas, utilidades, valoraciones o comentarios sobre contenidos del PORTAL nada que atente contra los valores y la dignidad de las personas, de acuerdo con las normas nacionales e internacionales de protección de los derechos humanos.&nbsp; El USUARIO se compromete a suministrar información verdadera y exacta acerca de él mismo en sus formularios de registro, y a consignar como e-mail externo uno de su titularidad.&nbsp; Asimismo, queda prohibida la reproducción, distribución, transmisión, adaptación o modificación, por cualquier medio y en cualquier forma, de los contenidos Web del PORTAL (textos, diseños, gráficos, informaciones, bases de datos, archivos de sonido y/o imagen, logos y demás elementos de estos sitios), salvo autorización previa de sus legítimos titulares o cuando así resulte permitido por la ley.&nbsp; El USUARIO, desde el momento en el que se registra en el PORTAL, y de conformidad con lo dispuesto en su Política de Confidencialidad, autoriza a SANTANDER titular del PORTAL a enviarle información comercial propia o de terceros por correo electrónico, sms o cualquier otro medio de comunicación electrónica equivalente. Esta autorización guarda relación directa con la creación y el mantenimiento de la relación contractual establecida con el USUARIO por el hecho de registrarse en el PORTAL, por lo que, en caso de no querer recibir este tipo de comunicaciones, el USUARIO podrá revocar su consentimiento en todo momento a través del procedimiento indicado en las propias comunicaciones comerciales, causando la cancelación o baja para comunicaciones de TWIST, o bien, dándose directamente de baja o desactivándose como USUARIO de TWIST comunicándose a los correos campanastdc@santander.com.mx &nbsp;y campanastwist@santander.com.mx, comunicándose en línea en el chat de atención o llamando a la Superlínea. Cualquier duda sobre este procedimiento podrá consultarse mediante correo electrónico escrito a la dirección de contacto del PORTAL campanastdc@santander.com.mx &nbsp;y campanastwist@santander.com.mx  "1.- Objeto y modificación de condiciones. Definición del Portal Twist y Entidades responsables de los mismos").&nbsp; Se prohíbe, asimismo, respecto de los contenidos antes detallados, cualquier utilización comercial o publicitaria, distinta de la estrictamente permitida, en su caso, y la vulneración, en general, de cualquier derecho derivado de los mismos.</p> 
+
+		<p>4.- Condiciones que deberán cumplir los usuarios que quieran establecer un hiperenlace entre su página web y el PORTAL.</p> 
+
+		<p>No se admite la reproducción de páginas del PORTAL mediante hiperenlace desde otro portal o página web, permitiéndose exclusivamente el acceso a los mismos.&nbsp; En ningún caso se podrá dar a entender que SANTANDER autoriza el hiperenlace o que ha supervisado o asumido de cualquier forma los servicios o contenidos ofrecidos por la web desde la que se produce el hiperenlace.&nbsp; No se podrán realizar manifestaciones o referencias falsas, incorrectas o inexactas sobre las páginas y servicios de TWIST.&nbsp; La página desde donde se establece el hiperenlace no podrá tener ningún distintivo que haga referencia al PORTAL exceptuando los signos integrados en el propio hiperenlace.&nbsp; Se prohíbe explícitamente la creación de cualquier tipo de navegador, programa, browser o border environment sobre las páginas del PORTAL.&nbsp; No se podrán incluir contenidos contrarios a los derechos de terceros, ni contrarios a la moral y las buenas costumbres aceptadas, ni contenidos o informaciones ilícitas, en la página web desde la que se establezca el hiperenlace.&nbsp; La existencia de un hiperenlace entre una página web y el PORTAL no implica la existencia de relaciones entre Santander Twist y el propietario de esa página, ni la aceptación y aprobación de sus contenidos y servicios.</p>
+
+		<p>5.- Responsabilidad del USUARIO.</p> 
+
+		<p>Utilización de la red social de Twist. Introducción de comentarios en blogs y foros. Utilización del correo electrónico y medidas de seguridad.</p>&nbsp; 
+
+		<p>5.1.- Responsabilidad del USUARIO.</p>
+
+		<p>El USUARIO será el único responsable por el uso del PORTAL y por el cumplimiento de estas CONDICIONES GENERALES en su totalidad. En consecuencia, el USUARIO se obliga a mantener en secreto, con el carácter de información confidencial y reservada, sus claves de acceso, contraseñas o datos similares asignados para acceder al PORTAL o a cualquiera de sus servicios, siendo responsable de cualesquier daño y perjuicio de toda naturaleza derivados del mal uso realizado por sí o por terceros, tanto contra el mismo USUARIO, considerándose los daños que sufra como consecuencia de su negligencia, como los que pueda sufrir TWIST como consecuencia del incumplimiento de las presentes CONDICIONES GENERALES.</p> 
+
+		<p>5.2.- Utilización de la red social de Twist.</p> 
+
+		<p>A través de los servicios de la red social de Twist (en adelante, la "Red Twist", o, simplemente, la "Red"), que el PORTAL ofrece a sus USUARIOS, el USUARIO podrá compartir información, comunicarse y conectar con amigos.&nbsp; En relación con la utilización de estos servicios de la Red, el USUARIO asume las siguientes obligaciones:&nbsp; a) El USUARIO utilizará los servicios de la Red para su uso personal y nunca con finalidades económicas o comerciales sin contar con la previa autorización de SANTANDER.&nbsp; b) El USUARIO no proporcionará información personal falsa en la Red, y será el único responsable de la comunicación real y veraz de sus datos personales.&nbsp; c) El USUARIO no creará una cuenta de perfil falsa, ni suplantará la personalidad de un tercero sin su autorización.&nbsp; d)El USUARIO se compromete a realizar un uso razonable de la Red y de sus contenidos.&nbsp; e) El USUARIO se obliga a que toda publicación de contenidos que lleve a cabo en la Red no viole en modo alguno la normativa vigente, derechos de propiedad intelectual, derechos contractuales, ni ningún otro tipo de derecho que pudiera ostentar cualquier persona física o jurídica, pública o privada.&nbsp; f) El USUARIO no alojará, almacenará, divulgará ni publicará ningún tipo de contenido, imagen u opinión que pudiera resultar hiriente, injuriosa o intimidatoria para otros usuarios, que viole en cualquier modo los derechos fundamentales al honor, la imagen e intimidad personal y familiar de terceros o cualquier otra normativa que fuera de aplicación; o que resulten ilícitos o delictivos, así como aquellos contrarios a la buena fe, la moral y al orden público como pueden ser, a título de ejemplo, los contenidos que sean ofensivos, que inciten al racismo, a la intolerancia contra una persona o grupo de personas, obscenos, pornográficos, o que promuevan información engañosa, difamatoria o calumniante.&nbsp; g) El USUARIO no utilizará el servicio de la Red para captar o recopilar información de contacto de otros USUARIOS con la finalidad de enviarles comunicaciones y/o información no solicitada.&nbsp; h) El USUARIO no usará la Red para el envío de publicaciones, comunicaciones comerciales, ofrecimientos ilícitos, inmorales o promocionales ni para remitir correos electrónicos con carácter masivo y/o repetitivo no solicitados por los USUARIOS.&nbsp; SANTANDER no será responsable en ningún caso de la utilización indebida de la Red y de sus contenidos, siendo el USUARIO el único responsable por los daños y perjuicios que pudieran derivarse de un mal uso de los mismos o de la infracción de lo dispuesto en las presentes condiciones en que pueda incurrir. El USUARIO se compromete a mantener indemne a SANTANDER frente a las reclamaciones o sanciones que pudiera recibir de terceros, ya sean particulares o entidades públicas o privadas, por razón de dichas infracciones así como frente a los daños y perjuicios de todo tipo que pueda sufrir como consecuencia de las mismas.&nbsp; SANTANDER podrá retirar cualquier contenido e información publicados en la Red si consideraran que se están violando las presentes obligaciones por parte del USUARIO o si SANTANDER recibe una reclamación de un tercero por infracción de las condiciones aquí contempladas o cuando pueda generar perjuicios para éste.&nbsp; SANTANDER se reserva al derecho a suspender y/o cancelar la cuenta del USUARIO en su PORTAL, sin necesidad de previo aviso y sin que este hecho genere indemnización alguna, si consideraran, bajo su propio criterio, el incumplimiento grave de las presentes condiciones de utilización de la Red por parte del USUARIO.</p>
+
+		<p>5.3.- Introducción de comentarios en blogs y foros.</p> 
+
+		<p>En relación con la introducción de comentarios en los blogs o foros del PORTAL, el USUARIO se obliga a no introducir comentarios que puedan resultar ofensivos, infamantes, injuriosos o calumniosos para terceros, contrarios a la moral, el orden público, o a la dignidad de las personas, o que de cualquier otra manera puedan resultar ilícitos o ilegales o causar un daño o perjuicio a terceros.&nbsp; SANTANDER se reserva el derecho de retirar inmediatamente sin previo aviso de los blogs y foros de TWIST aquellos comentarios que a su juicio incumplan lo dispuesto en el párrafo anterior.</p>&nbsp; 
+
+		<p>5.4.- Utilización del correo electrónico y medidas de seguridad.</p> 
+
+		<p>En relación con la utilización del servicio de correo electrónico, en el caso de estar disponible este servicio en el PORTAL, el USUARIO se obliga a utilizar su cuenta de correo en TWIST con una finalidad exclusivamente privada, particular y no lucrativa, quedando expresamente prohibida la utilización de las cuentas de correo del PORTAL con finalidades profesionales, comerciales o empresariales (como por ejemplo la designación de este cuenta como dirección de contacto en actividades de este tipo), para hacer spam o para actividades ilegales, fraudulentas, abusivas o engañosas, quedando SANTANDER autorizado para cancelar las cuentas de correo de las que tenga sospecha que se dedican a realizar alguna de estas actividades y dar de baja a los USUARIOS titulares de las mismas.&nbsp; En cumplimiento de lo dispuesto en la normativa vigente, SANTANDER informa a sus USUARIOS de que el servicio de correo electrónico, en aquellos PORTALES que lo ofrecen, cuenta con las siguientes medidas de seguridad: alojamiento en servidores de alta disponibilidad, antispam, antivirus, sistemas de firewalls y balanceadores, y restricción de acceso por contraseña a los técnicos encargados de su mantenimiento.&nbsp; Cualquier infracción de estas CONDICIONES GENERALES puede dar lugar a los procedimientos extrajudiciales o judiciales civiles o penales que correspondan contra el usuario, que deberá mantener indemne a SANTANDER frente cualesquiera reclamaciones, demandas, daños y perjuicios que pueda sufrir como consecuencia de tal infracción.</p>&nbsp;
+
+		<p>6.- Exclusión de Garantías y de Responsabilidad.</p>
+
+		<p>SANTANDER no garantiza ni se hace responsable, en ningún caso ni circunstancia, de los siguientes hechos y contenidos, ni de cualesquiera daños y perjuicios que pudieran, en su caso, derivarse de los mismos:&nbsp; Falta de disponibilidad, continuidad, acceso, mantenimiento y efectivo funcionamiento del PORTAL y/o de sus servicios y actualización, exactitud, exhaustividad, pertinencia, actualidad y fiabilidad de sus contenidos, cualquiera que sea la causa y las dificultades o problemas técnicos o de otra naturaleza en los que tengan su origen dichos hechos.&nbsp; La transmisión y/o existencia de virus, otros elementos o programas lesivos para los equipos de los USUARIOS que pudieran afectarles, como consecuencia del acceso, uso o examen del sitio, o que produjeran alteraciones en sus documentos electrónicos o ficheros.&nbsp; Del uso ilícito, negligente, fraudulento, suplantando la personalidad de un tercero o contrario al contenido de estas CONDICIONES GENERALES, a la buena fe, a los usos generalmente admitidos o al orden público, de los PORTALES, de sus servicios y contenidos, por los USUARIOS.&nbsp; Excepción hecha de aquellos signos que formen parte del mismo hiperenlace, la página web en la que se establezca este hiperenlace no contendrá ninguna marca, nombre comercial, rótulo de establecimiento, denominación, logotipo, eslogan u otros signos distintivos pertenecientes a TWIST.&nbsp; De las vulneraciones o infracciones de las leyes, usos o costumbres vigentes en materia de derechos de propiedad intelectual, propiedad industrial, secretos empresariales o contractuales, derechos de intimidad, honor, imagen, propiedad, publicidad o competencia, entre otros, de terceros.&nbsp; Vicios o defectos de los contenidos y/o servicios a los que se acceda a través del PORTAL.&nbsp; Por la recepción, almacenamiento, obtención, difusión o transmisión por parte de los USUARIOS, de los contenidos del PORTAL.&nbsp; Por el conocimiento de cualquier información que pudieran poseer o utilizar terceras personas no autorizadas de las características y circunstancias del uso de los contenidos y servicios del PORTAL por los USUARIOS.&nbsp; Por el incumplimiento, por parte de terceros, de sus obligaciones o garantías derivadas o contraídas en relación con los servicios prestados a los USUARIOS a través del PORTAL, así como por la falta de calidad, fiabilidad, adecuación a lo ofertado, licitud, utilidad y disponibilidad de los servicios prestados por terceros y puestos a disposición de los USUARIOS en estos sitios.&nbsp; La enumeración anterior tiene mero carácter enunciativo y no es, en ningún caso, exclusivo ni excluyente en ninguno de sus puntos. En todos los supuestos, SANTANDER EXCLUYE CUALQUIER RESPONSABILIDAD POR LOS DAñOS Y PERJUICIOS DE CUALQUIER NATURALEZA DERIVADOS DIRECTA O INDIRECTAMENTE DE LOS MISMOS Y DE CUALESQUIERA OTROS NO ESPECIFICADOS DE ANáLOGAS CARACTERISTICAS.</p>
+
+		<p>7.- Enlaces.</p> 
+
+		<p>El PORTAL incluye dentro de sus contenidos enlaces con sitios pertenecientes y/o gestionados por terceros con el objeto de facilitar el acceso a información y servicios disponibles a través de Internet.&nbsp; SANTANDER no asume ninguna responsabilidad derivada de la existencia de enlaces entre los contenidos del PORTAL y contenidos situados fuera de los mismos o de cualquier otra mención de contenidos externos a este sitio. Tales enlaces o menciones tienen una finalidad exclusivamente informativa y, en ningún caso, implican el apoyo, aprobación, comercialización o relación alguna entre SANTANDER y las personas o entidades autoras y/o gestoras de tales contenidos o titulares de los sitios donde se encuentren, ni garantía alguna de SANTANDER por el correcto funcionamiento de los sitios o contenidos enlazados.&nbsp; En este sentido el USUARIO se obliga a poner la máxima diligencia y prudencia en el caso de acceder o usar contenidos o servicios de los sitios a los que acceda en virtud de los mencionados enlaces.</p> 
+
+		<p>8.- Derechos de Propiedad Intelectual e Industrial.</p>
+
+		<p>Los textos, diseños, imágenes, bases de datos, logos, estructura, marcas y demás elementos del PORTAL están protegidos por las leyes y los tratados internacionales sobre propiedad intelectual e industrial. Cualquier reproducción, transmisión, adaptación, traducción, modificación, comunicación al público, o cualquier otra explotación de todo o parte del contenido de este sitio, efectuada de cualquier forma o por cualquier medio, electrónico, mecánico u otro, están estrictamente prohibidos salvo autorización previa por escrito de SANTANDER. Cualquier infracción de estos derechos puede dar lugar a procedimientos extrajudiciales o judiciales civiles o penales que correspondan.&nbsp; SANTANDER no concede ninguna licencia o autorización de uso de ninguna clase sobre sus derechos de propiedad intelectual e industrial, o sobre cualquier otra propiedad o derecho relacionado con los PORTALES, los servicios o los contenidos de los mismos.&nbsp; La legitimidad de los derechos de propiedad intelectual o industrial correspondientes a los contenidos aportados por terceros es de la exclusiva responsabilidad de los mismos.&nbsp; A los efectos de preservar los posibles derechos de propiedad intelectual, en el caso de que cualquier USUARIO o un tercero considere que se ha producido una violación de sus legítimos derechos por la introducción de un determinado contenido en el PORTAL, deberá notificar dicha circunstancia, por escrito, a SANTANDER, indicando:&nbsp; Datos de carácter personal identificativos del interesado titular de los derechos presuntamente infringidos. Si la reclamación la presenta un tercero distinto del interesado, deberá indicar la representación con la que actúa.&nbsp; Indicación de los contenidos protegidos por los derechos de propiedad intelectual y su ubicación en el PORTAL.&nbsp; Acreditación de la existencia, titularidad y vigencia de los citados derechos de propiedad intelectual.&nbsp; Declaración expresa en la que el interesado se responsabilice de la veracidad de los datos e información facilitados en la notificación a que se refiere este punto.</p> 
+
+		<p>9.- Recolección de la información.</p> 
+
+		<p>Recibimos y almacenamos información sobre usted, incluida: - La información que usted nos proporciona: Recopilamos la información que usted nos brinda, que incluye: Su nombre, email y número de teléfono. Esta información se recopila de diferentes maneras, entre ellas, cuando usted la introduce en nuestro servicio, al interactuar con nuestro Servicio al Cliente o al participar en encuestas o promociones de marketing; y la información recopilada cuando usted elije proporcionar calificaciones, cuando configura las preferencias en "SU CUENTA", sus preferencias generales, o nos brinda información a través de nuestras campañas en EL PORTAL. - La información que recopilamos automáticamente: Recopilamos información con relación a usted, el uso de nuestro servicio y sus interacciones con nosotros y nuestra publicidad, además de aquella información relacionada con su computadora o cualquier dispositivo que utilice para acceder a nuestro servicio (como el uso de la app de Santander Twist, dispositivos móviles y otros medios). Esta información incluye: su actividad en EL PORTAL, sus registros en campañas y las consultas de búsquedas; detalles sobre sus interacciones con el chat en línea, como la fecha, hora, razón de la consulta, transcripciones de cualquier conversación en el chat. La información recopilada a través del uso de cookies, señalizaciones web y otras tecnologías, incluidos los datos de publicidad (por ejemplo, información sobre las impresiones entregadas a una cookie, el URL del sitio donde se haya entregado la impresión, así como la fecha y la hora). Uso de cookies&nbsp; En algunas ocasiones, el PORTAL utiliza pequeños ficheros de datos conocidos como "Cookies" que se generan en el ordenador del USUARIO y que permiten obtener la siguiente información:&nbsp; -Fecha y hora de la última vez que el USUARIO visitó la Web.&nbsp; - Diseño de CONTENIDOS que el USUARIO escogió en su primera visita a la Web.&nbsp; - Elementos de seguridad que intervienen en el control de acceso a las áreas restringidas.&nbsp; - Historial de navegación Las Cookies tienen, generalmente, una duración limitada en el tiempo. Ninguna Cookies permite a SANTANDER o a otros USUARIOS la obtención del número de teléfono del USUARIO, su dirección de correo electrónico o cualquier otra información personal de contacto, salvo que el propio USUARIO proporcione dichos datos. Ninguna Cookie puede extraer información del disco duro del USUARIO o posibilitar la sustracción de información personal. La única manera de que la información privada de un USUARIO forme parte del archivo Cookies es que el USUARIO dé personalmente esa información al servidor.&nbsp; El USUARIO tiene la opción de impedir la generación de Cookies, mediante la selección de la correspondiente opción en su programa navegador, si bien, la desactivación de las mismas puede impedir, en algunos casos, el buen funcionamiento de la página.</p>
+
+		<p>10.- Legislación Aplicable y Jurisdicción.</p>&nbsp; 
+
+		<p>Las presentes CONDICIONES GENERALES, y el acceso, uso y/o utilización de los servicios o contenidos del PORTAL y cuantas cuestiones se deriven de los mismos quedan sujetas a las siguientes legislaciones y jurisdicciones:&nbsp; www.santandertwist.com.mx: el acceso, uso y/o utilización de los servicios o contenidos de este PORTAL, las presentes CONDICIONES GENERALES en todo cuanto lo regulan y cuantas cuestiones se deriven del mismo quedan sujetos a la legislación mexicana. Para cuantas cuestiones pudieran suscitarse o acciones ejercitarse derivadas de la gestión de este PORTAL por Banco Santander (México), S.A, , y de los servicios y contenidos del mismo, y sobre la interpretación, aplicación, cumplimiento o incumplimiento de lo aquí establecido, el USUARIO, con renuncia expresa a cualquier otro fuero que pudiera corresponderles, se somete a la jurisdicción de los Juzgados y Tribunales de México D.F. (México). Banco Santander (México), S.A., Institución de Banca Múltiple, Grupo Financiero Santander México, señalando como domicilio convencional para los efectos relacionados con el presente aviso el señalado en Av. Prolongación Paseo de la Reforma, número 500, Colonia Lomas de Santa Fe, C.P. 01219, en México D.F., hace de su conocimiento que sus datos personales serán protegidos de acuerdo a lo establecido por la Ley Federal de Protección de Datos Personales en Posesión de los Particulares así como por nuestra política de privacidad y que el tratamiento que se haga de sus datos será con la finalidad, enunciando sin limitar, de proporcionar los servicios que brinda el presente sitio web, así como hacer de su conocimiento otras promociones de su interés respecto de los productos que aquí se comercializan; asimismo se entenderá que Usted otorga su consentimiento al tratamiento de sus datos personales al no realizar el ejercicio de Derechos ARCO. Usted podrá consultar nuestro aviso de privacidad completo en la página www.santander.com.mx.</p>
+
+		<p>Para dudas del programa puede llamar a la Superlínea a los teléfonos 5169-4300 desde la Ciudad de México y Área Metropolitana y al 01800-501-0000 desde el interior de la república.</p>
+	</p>
+
+ 
+	</div>
+</div>
+
+
+<script src="js/jquery.fancybox.min.js"></script>
+<script src="js/swiper.min.js"></script>
+<script src="js/sitio.js"></script>
